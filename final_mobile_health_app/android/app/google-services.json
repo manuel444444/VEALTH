@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406740731711",
+    "project_id": "vealthapp",
+    "storage_bucket": "vealthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406740731711:android:e25988a86287fc2ab3358a",
+        "android_client_info": {
+          "package_name": "com.TheVealthApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406740731711-tfuovs6ru9guund4ig6ojpbdu715fo7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TheVealthApp",
+            "certificate_hash": "f8a8544cdf2083c597dc996dbeeb87269efbbb41"
+          }
+        },
+        {
+          "client_id": "406740731711-egggj7q07v9oviqd8sb607ida301vvkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LfqNK0zjzW9coX3RX2OMZUhdnE-fEQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406740731711-egggj7q07v9oviqd8sb607ida301vvkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
